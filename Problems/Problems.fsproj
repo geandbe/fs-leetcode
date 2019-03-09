@@ -42,6 +42,7 @@
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
     <None Include="Problem0001.fsx" />
+    <None Include="Problem0002.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">
