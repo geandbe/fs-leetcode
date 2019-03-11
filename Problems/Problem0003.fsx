@@ -1,10 +1,4 @@
-﻿
-
-open System.Linq.Expressions
-open System.Linq.Expressions
-
-let hs = HashSet()
-// Leetcode Problem 3 Longest Substring Without Repeating Characters
+﻿// Leetcode Problem 3 Longest Substring Without Repeating Characters
 
 let uniqueSubstr s =
     let rec uniqueHead (s:string) (ls: string list) = 
