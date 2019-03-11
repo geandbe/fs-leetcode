@@ -43,6 +43,7 @@
   <ItemGroup>
     <None Include="Problem0001.fsx" />
     <None Include="Problem0002.fsx" />
+    <None Include="Problem0003.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">
